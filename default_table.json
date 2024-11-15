@@ -1,0 +1,7 @@
+{
+  "items" : [ {
+    "name" : "Sample Item",
+    "quantity" : 1,
+    "price" : 10
+  } ]
+}
